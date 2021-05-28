@@ -1,6 +1,6 @@
 # immuno_ai
 
-A new Flutter project.
+A mobile app that helps people living with HIV keep track of their health CD4 count, viral load etc. They can effectively follow regimen by using medicine reminders and never miss a medicine that can impact their health. 
 
 ## Getting Started
 
